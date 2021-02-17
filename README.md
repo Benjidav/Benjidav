@@ -1,4 +1,6 @@
-### Hi there, I'm Benjamin, a financial engineering student & Quantitative analyst intern at Ostrum AM 👋
+### Hi there, I'm Benjamin 👋
+
+Financial engineering student & Quantitative analyst intern at Ostrum AM 
 
 - 🔭 I’m currently working on a Credit scoring model !
 - 🌱 I’m currently learning text mining in R
